@@ -15,7 +15,7 @@ function historia(){
     his.style=textAlign="center";
     his.style.fontSize="17px";
     
-}
+
  function estrutura(){
   var estrutura =  document.getElementById("estrutura");
 
@@ -31,4 +31,5 @@ function historia(){
 
     estrutura.style=textAlign="center";
     estrutura.style.fontSize="17px";
- }
+
+ }}
